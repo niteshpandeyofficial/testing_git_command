@@ -1,4 +1,5 @@
 test file created
 2nd line added
 3rd line added by front end
-git direct move command
+check for clone example
+
